@@ -1,2 +1,2 @@
 # coursera-testing
-Coursera test repository 
+Coursera test repository by Siya Shelar
